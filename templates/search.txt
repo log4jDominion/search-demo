@@ -1,0 +1,13 @@
+User Name: {{ user_name }} | Topic: {{ topic }}
+Search: Choose a field for searching:
+          Title + OCR text + Folder label
+
+	  Title + OCR text
+	  Title + Folder label
+	  Title + OCR text
+	  
+	  Title
+	  OCR Text
+	  Folder label
+ 
+         Search

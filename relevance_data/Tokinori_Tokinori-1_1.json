@@ -1,0 +1,30 @@
+[
+    {
+        "query": "brazil",
+        "file": "S13214.pdf",
+        "relevance": 4,
+        "user_name": "Tokinori",
+        "topic_num": "Tokinori-1"
+    },
+    {
+        "query": "brazil",
+        "file": "S43905.pdf",
+        "relevance": 1,
+        "user_name": "Tokinori",
+        "topic_num": "Tokinori-1"
+    },
+    {
+        "query": "coffee",
+        "file": "S25742.pdf",
+        "relevance": 1,
+        "user_name": "Tokinori",
+        "topic_num": "Tokinori-1"
+    },
+    {
+        "query": "coffee",
+        "file": "S27149.pdf",
+        "relevance": 4,
+        "user_name": "Tokinori",
+        "topic_num": "Tokinori-1"
+    }
+]

@@ -1,0 +1,77 @@
+2025-02-07 16:21:02,916 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50000
+ * Running on http://10.172.117.183:50000
+2025-02-07 16:21:02,916 INFO: [33mPress CTRL+C to quit[0m
+2025-02-07 16:21:02,917 INFO:  * Restarting with stat
+2025-02-07 16:21:03,456 WARNING:  * Debugger is active!
+2025-02-07 16:21:03,466 INFO:  * Debugger PIN: 100-666-686
+2025-02-07 16:21:13,272 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:13] "[32mGET / HTTP/1.1[0m" 302 -
+2025-02-07 16:21:13,283 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:13] "GET /login HTTP/1.1" 200 -
+2025-02-07 16:21:13,654 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 16:21:17,665 INFO: LOGIN sbhardw7
+2025-02-07 16:21:17,665 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:17] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-07 16:21:17,671 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:17] "GET /select_topic HTTP/1.1" 200 -
+2025-02-07 16:21:20,161 INFO: TOPIC sbhardw7 TOPIC_NUM Future space missions
+2025-02-07 16:21:20,162 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:20] "[32mPOST /select_topic HTTP/1.1[0m" 302 -
+2025-02-07 16:21:20,184 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:20] "GET /search HTTP/1.1" 200 -
+2025-02-07 16:21:23,124 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:23] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2025-02-07 16:21:23,157 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:23] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-07 16:21:23,163 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:23] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-07 16:21:23,190 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:23] "GET /search?__debugger__=yes&cmd=resource&f=console.png&s=D3nlrqgeKBpam2u99nbW HTTP/1.1" 200 -
+2025-02-07 16:21:23,247 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:23] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-07 16:21:47,067 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50000
+ * Running on http://10.172.117.183:50000
+2025-02-07 16:21:47,068 INFO: [33mPress CTRL+C to quit[0m
+2025-02-07 16:21:47,068 INFO:  * Restarting with stat
+2025-02-07 16:21:47,488 WARNING:  * Debugger is active!
+2025-02-07 16:21:47,494 INFO:  * Debugger PIN: 100-666-686
+2025-02-07 16:21:56,699 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:56] "[32mGET / HTTP/1.1[0m" 302 -
+2025-02-07 16:21:56,711 INFO: 127.0.0.1 - - [07/Feb/2025 16:21:56] "GET /login HTTP/1.1" 200 -
+2025-02-07 16:22:00,185 INFO: LOGIN sbhardw7
+2025-02-07 16:22:00,186 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:00] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-07 16:22:00,194 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:00] "GET /select_topic HTTP/1.1" 200 -
+2025-02-07 16:22:02,078 INFO: TOPIC sbhardw7 TOPIC_NUM Future space missions
+2025-02-07 16:22:02,079 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:02] "[32mPOST /select_topic HTTP/1.1[0m" 302 -
+2025-02-07 16:22:02,101 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:02] "GET /search HTTP/1.1" 200 -
+2025-02-07 16:22:04,636 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:04] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2025-02-07 16:22:04,677 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:04] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-07 16:22:04,678 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:04] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-07 16:22:04,706 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:04] "GET /search?__debugger__=yes&cmd=resource&f=console.png&s=RuScYV9Y8DuNDrd9IcxE HTTP/1.1" 200 -
+2025-02-07 16:22:04,756 INFO: 127.0.0.1 - - [07/Feb/2025 16:22:04] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-07 16:23:33,028 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50000
+ * Running on http://10.172.117.183:50000
+2025-02-07 16:23:33,029 INFO: [33mPress CTRL+C to quit[0m
+2025-02-07 16:23:33,030 INFO:  * Restarting with stat
+2025-02-07 16:23:33,993 WARNING:  * Debugger is active!
+2025-02-07 16:23:34,000 INFO:  * Debugger PIN: 100-666-686
+2025-02-07 16:23:36,807 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:36] "[32mGET / HTTP/1.1[0m" 302 -
+2025-02-07 16:23:36,833 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:36] "GET /login HTTP/1.1" 200 -
+2025-02-07 16:23:40,571 INFO: LOGIN sbhardw7
+2025-02-07 16:23:40,573 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-07 16:23:40,582 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:40] "GET /select_topic HTTP/1.1" 200 -
+2025-02-07 16:23:42,663 INFO: TOPIC sbhardw7 TOPIC_NUM Future space missions
+2025-02-07 16:23:42,665 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:42] "[32mPOST /select_topic HTTP/1.1[0m" 302 -
+2025-02-07 16:23:42,705 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:42] "GET /search HTTP/1.1" 200 -
+2025-02-07 16:23:45,541 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:45] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2025-02-07 16:23:45,578 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:45] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-07 16:23:45,587 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:45] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-07 16:23:45,627 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:45] "GET /search?__debugger__=yes&cmd=resource&f=console.png&s=lEq2GDukUcsMxjifzyUJ HTTP/1.1" 200 -
+2025-02-07 16:23:45,639 INFO: 127.0.0.1 - - [07/Feb/2025 16:23:45] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-07 16:24:25,493 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50000
+ * Running on http://10.172.117.183:50000
+2025-02-07 16:24:25,493 INFO: [33mPress CTRL+C to quit[0m
+2025-02-07 16:24:25,494 INFO:  * Restarting with stat
+2025-02-07 16:24:25,929 WARNING:  * Debugger is active!
+2025-02-07 16:24:25,934 INFO:  * Debugger PIN: 100-666-686
+2025-02-07 16:24:30,814 INFO: SEARCH sbhardw7 TOPIC_NUM Future space missions QUERY research FIELD tof
+2025-02-07 16:24:30,822 INFO: 127.0.0.1 - - [07/Feb/2025 16:24:30] "POST /search HTTP/1.1" 200 -
+2025-02-07 16:25:40,605 INFO: LOGIN sbhardw7
+2025-02-07 16:25:43,861 INFO: TOPIC sbhardw7 TOPIC_NUM Future space missions
+2025-02-07 16:25:47,787 INFO: SEARCH sbhardw7 TOPIC_NUM Future space missions QUERY research FIELD tof

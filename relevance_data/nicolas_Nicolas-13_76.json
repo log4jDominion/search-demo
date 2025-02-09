@@ -1,0 +1,79 @@
+[
+    {
+        "query": "Anti cancer",
+        "file": "S10546.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "Anti cancer",
+        "file": "S21500.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "Anti cancer",
+        "file": "S12326.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "Anti cancer",
+        "file": "S07202.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "Anti cancer",
+        "file": "S10351.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "thalidomide",
+        "file": "S10351.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "thalidomide",
+        "file": "S07202.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "anti cancer",
+        "file": "S07202.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "anti cancer",
+        "file": "S10351.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "thalidomide",
+        "file": "S10351.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    },
+    {
+        "query": "thalidomide",
+        "file": "S07202.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-13"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "query": "oil shock",
+        "file": "S18717.pdf",
+        "relevance": 3,
+        "user_name": "katie",
+        "topic_num": "Katie-3"
+    },
+    {
+        "query": "oil price",
+        "file": "S11560.pdf",
+        "relevance": 3,
+        "user_name": "katie",
+        "topic_num": "Katie-3"
+    },
+    {
+        "query": "oil middle east",
+        "file": "S11560.pdf",
+        "relevance": 3,
+        "user_name": "katie",
+        "topic_num": "Katie-3"
+    },
+    {
+        "query": "oil middle east",
+        "file": "S39945.pdf",
+        "relevance": 3,
+        "user_name": "katie",
+        "topic_num": "Katie-3"
+    },
+    {
+        "query": "gas price",
+        "file": "S25906.pdf",
+        "relevance": 3,
+        "user_name": "katie",
+        "topic_num": "Katie-3"
+    }
+]

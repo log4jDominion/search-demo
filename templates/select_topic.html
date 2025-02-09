@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Topic</title>
+    <style>
+        /* Basic styling for the Create Topic page */
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 100%;
+            max-width: 450px;
+            padding: 25px;
+            background-color: #fff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            box-sizing: border-box;
+        }
+        .container h1 {
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 1.6em;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .form-group select,
+        .form-group input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 1em;
+        }
+        .form-group button {
+            width: 100%;
+            padding: 12px;
+            background-color: #4CAF50;
+            color: #fff;
+            font-size: 1.1em;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+        }
+        .form-group button:hover {
+            background-color: #45a049;
+        }
+    </style>
+    <script>
+        // JavaScript to ensure either an existing topic is chosen or a new topic is written
+        function validateForm(event) {
+            const existingTopic = document.getElementById("existing_topic").value;
+            const newTopic = document.getElementById("new_topic").value.trim();
+
+            if ((existingTopic && newTopic) || (!existingTopic && !newTopic)) {
+                // Display an error message if both or neither fields are filled
+                alert("Please either select an existing topic or enter a new topic, not both.");
+                event.preventDefault();
+                return false;
+            }
+            return true;
+        }
+
+        function clearExistingTopic() {
+            const newTopicInput = document.getElementById("new_topic");
+            const existingTopicSelect = document.getElementById("existing_topic");
+
+            newTopicInput.addEventListener("input", function() {
+                if (newTopicInput.value.trim() !== "") {
+                    existingTopicSelect.selectedIndex = -1;
+                }
+            });
+        }
+
+        window.onload = function() {
+            clearExistingTopic();
+            document.getElementById("topicForm").addEventListener("submit", validateForm);
+        };
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Select a Topic</h1>
+        <form id="topicForm" action="/select_topic" method="POST">
+
+            <div class="form-group">
+                <label for="existing_topic">Select an Existing Topic:</label>
+                <select id="existing_topic" name="existing_topic">
+                    <option value="" selected disabled>Select a topic</option>
+                    {% for topic in topics %}
+                        <option value="{{ topic }}">{{ topic['id'] }}:{{ topic['text'] }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <button type="submit">Start Relevance Judgement</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

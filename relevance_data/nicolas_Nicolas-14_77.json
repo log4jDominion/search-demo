@@ -1,0 +1,37 @@
+[
+    {
+        "query": "Anti semitism",
+        "file": "S05651.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-14"
+    },
+    {
+        "query": "Anti semitism",
+        "file": "S07485.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-14"
+    },
+    {
+        "query": "Anti semitism",
+        "file": "S32986.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-14"
+    },
+    {
+        "query": "Anti Jew",
+        "file": "S23234.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-14"
+    },
+    {
+        "query": "Anti Judaism ",
+        "file": "S23234.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-14"
+    }
+]

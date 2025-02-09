@@ -1,0 +1,107 @@
+[
+    {
+        "query": "nazi",
+        "file": "S12804.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "nazi",
+        "file": "S06194.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "nazi",
+        "file": "S12804.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "nazi",
+        "file": "S06194.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "German",
+        "file": "S10397.pdf",
+        "relevance": 4,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "German",
+        "file": "S06078.pdf",
+        "relevance": 4,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "German",
+        "file": "S25446.pdf",
+        "relevance": 4,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "German",
+        "file": "S01591.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "German",
+        "file": "S06194.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "extradition",
+        "file": "S01591.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "extradition",
+        "file": "S19556.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "extradition",
+        "file": "S15384.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "extradition",
+        "file": "S16199.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "extradition",
+        "file": "S06194.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    },
+    {
+        "query": "extradition",
+        "file": "S21311.pdf",
+        "relevance": 3,
+        "user_name": "oard",
+        "topic_num": "Doug-3"
+    }
+]

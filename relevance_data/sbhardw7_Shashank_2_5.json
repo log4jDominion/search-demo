@@ -1,0 +1,44 @@
+[
+    {
+        "query": "Urban agriculture",
+        "file": "S27473.pdf",
+        "relevance": 2,
+        "user_name": "sbhardw7",
+        "topic_num": "Shashank_2"
+    },
+    {
+        "query": "Urban agriculture",
+        "file": "S06339.pdf",
+        "relevance": 2,
+        "user_name": "sbhardw7",
+        "topic_num": "Shashank_2"
+    },
+    {
+        "query": "Rural agriculture",
+        "file": "S27473.pdf",
+        "relevance": 2,
+        "user_name": "sbhardw7",
+        "topic_num": "Shashank_2"
+    },
+    {
+        "query": "Rural agriculture",
+        "file": "S20663.pdf",
+        "relevance": 1,
+        "user_name": "sbhardw7",
+        "topic_num": "Shashank_2"
+    },
+    {
+        "query": "Rural agriculture",
+        "file": "S06339.pdf",
+        "relevance": 2,
+        "user_name": "sbhardw7",
+        "topic_num": "Shashank_2"
+    },
+    {
+        "query": "Rural agriculture",
+        "file": "S09187.pdf",
+        "relevance": 4,
+        "user_name": "sbhardw7",
+        "topic_num": "Shashank_2"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "query": " international cocoa agreement",
+        "file": "S07014.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-5"
+    },
+    {
+        "query": " international cocoa agreement",
+        "file": "S19950.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-5"
+    },
+    {
+        "query": " international cocoa agreement",
+        "file": "S12455.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-5"
+    }
+]

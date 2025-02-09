@@ -1,0 +1,86 @@
+[
+    {
+        "query": "sorghum",
+        "file": "S04993.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "sorghum",
+        "file": "S08966.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "sorghum",
+        "file": "S06983.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "sorghum",
+        "file": "S14946.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "sorghum",
+        "file": "S21194.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "sorghum",
+        "file": "S13966.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "grain sorghum",
+        "file": "S04993.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "grain sorghum",
+        "file": "S08966.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "grain sorghum",
+        "file": "S14946.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "grain sorghum",
+        "file": "S06983.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "grain sorghum",
+        "file": "S21194.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    },
+    {
+        "query": "grain sorghum",
+        "file": "S13966.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-10"
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "query": "milk",
+        "file": "S09791.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S25656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S06656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S17780.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S21821.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S15017.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S31758.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S05379.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S30509.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S43579.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S34700.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S34874.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "milk",
+        "file": "S39326.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S09791.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S25656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S06656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S17780.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S21821.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S15017.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S31758.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S05379.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S30509.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S43579.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S34700.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S34874.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk",
+        "file": "S39326.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S09791.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S06656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S25656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S17780.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S21821.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S15017.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S31758.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S05379.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S30509.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S43579.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S34700.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S34874.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk blindness",
+        "file": "S39326.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S25656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S05379.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S17780.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S15017.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S09791.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S08451.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S06656.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S21821.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S23212.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S31758.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S42975.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S30509.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S24135.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S43579.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S34700.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S34874.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S39326.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S34847.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    },
+    {
+        "query": "powdered milk disaster relief",
+        "file": "S19695.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-20"
+    }
+]

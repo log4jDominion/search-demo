@@ -1,0 +1,23 @@
+[
+    {
+        "query": "dams",
+        "file": "S42397.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-8"
+    },
+    {
+        "query": "dams",
+        "file": "S30663.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-8"
+    },
+    {
+        "query": "dams",
+        "file": "S03832.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-8"
+    }
+]

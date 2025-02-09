@@ -1,0 +1,86 @@
+[
+    {
+        "query": "Newspaper Censorship",
+        "file": "S41976.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Newspaper Censorship",
+        "file": "S30344.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "TV censorship",
+        "file": "S41976.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "TV censorship",
+        "file": "S30344.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "TV censorship",
+        "file": "S20505.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S20505.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S23804.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S40985.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S25590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S18889.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S23494.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    },
+    {
+        "query": "Color TV",
+        "file": "S35734.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-6"
+    }
+]

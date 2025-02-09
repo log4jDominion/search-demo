@@ -1,0 +1,93 @@
+[
+    {
+        "query": "disaster",
+        "file": "S04928.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "disaster",
+        "file": "S03531.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "disaster",
+        "file": "S18537.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "flood",
+        "file": "S03531.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "flood",
+        "file": "S07431.pdf",
+        "relevance": 3,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "flood",
+        "file": "S04928.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "flood",
+        "file": "S30018.pdf",
+        "relevance": 1,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "flood",
+        "file": "S18537.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "Alagoas Flood",
+        "file": "S03531.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "Alagoas Flood",
+        "file": "S07431.pdf",
+        "relevance": 3,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "Alagoas Flood",
+        "file": "S04928.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "Alagoas Flood",
+        "file": "S18537.pdf",
+        "relevance": 4,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    },
+    {
+        "query": "Alagoas Flood",
+        "file": "S30018.pdf",
+        "relevance": 1,
+        "user_name": "emi",
+        "topic_num": "emi-2"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "query": "Vampire bat",
+        "file": "S11796.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-9"
+    },
+    {
+        "query": "Vampire bat",
+        "file": "S11575.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-9"
+    },
+    {
+        "query": "Vampire bat",
+        "file": "S22013.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-9"
+    },
+    {
+        "query": "Vampire bat control",
+        "file": "S11796.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-9"
+    },
+    {
+        "query": "Vampire bat control",
+        "file": "S11575.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-9"
+    },
+    {
+        "query": "Vampire bat control",
+        "file": "S22013.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-9"
+    }
+]

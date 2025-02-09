@@ -1,0 +1,30 @@
+[
+    {
+        "query": "manioc ",
+        "file": "S24096.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-6"
+    },
+    {
+        "query": "manioc ",
+        "file": "S06133.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-6"
+    },
+    {
+        "query": "manioc ",
+        "file": "S21194.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-6"
+    },
+    {
+        "query": "manioc ",
+        "file": "S13966.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-6"
+    }
+]

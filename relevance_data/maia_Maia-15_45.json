@@ -1,0 +1,86 @@
+[
+    {
+        "query": "rice",
+        "file": "S26018.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice",
+        "file": "S14555.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice",
+        "file": "S07891.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice",
+        "file": "S26910.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice",
+        "file": "S11263.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice",
+        "file": "S22846.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice production",
+        "file": "S26018.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice production",
+        "file": "S14555.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice production",
+        "file": "S07891.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice production",
+        "file": "S11263.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice production",
+        "file": "S22846.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    },
+    {
+        "query": "rice production",
+        "file": "S26910.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-15"
+    }
+]

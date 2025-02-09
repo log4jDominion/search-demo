@@ -1,0 +1,681 @@
+[
+    {
+        "query": "mercury",
+        "file": "S09061.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "mercury",
+        "file": "S24843.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "mercury",
+        "file": "S40193.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "mercury",
+        "file": "S31566.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "mercury",
+        "file": "S18237.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "mercury",
+        "file": "S05175.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S04850.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S33342.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S17129.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S00955.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S10986.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S26106.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S20509.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S19071.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S26772.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S04850.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S33342.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S17129.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S00955.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "venus",
+        "file": "S10986.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S26106.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S20509.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S19071.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "earth",
+        "file": "S26772.pdf",
+        "relevance": 1,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "astronomy",
+        "file": "S10146.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "astronomy",
+        "file": "S12793.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "astronomy",
+        "file": "S35053.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "astronomy",
+        "file": "S05325.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "astronomy",
+        "file": "S03422.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "astronomy",
+        "file": "S06547.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "project gemini",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "project gemini",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "project gemini",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "project gemini",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "project gemini",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "project gemini",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite launch",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite launch",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite launch",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite launch",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini satellite launch",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini launch",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini launch",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini launch",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini launch",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini launch",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini launch",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10 launch",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10 launch",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10 launch",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10 launch",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10 launch",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10 launch",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini 10",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X launch",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X launch",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X launch",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X launch",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X launch",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X launch",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S09447.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S02590.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S26328.pdf",
+        "relevance": 2,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S01931.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S16123.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    },
+    {
+        "query": "Gemini X ",
+        "file": "S33536.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-3"
+    }
+]

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            width: 100%;
+            max-width: 900px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+        header {
+            width: 100%;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+        .user-info {
+            font-weight: bold;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        input[type="text"], select, button {
+            padding: 8px;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 0.9em;
+            padding: 8px 15px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+        tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+        .actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <!-- Display session information in bold -->
+            <div class="user-info">
+                <strong>User Name:</strong> {{ user_name }} | <strong>Topic:</strong> {{ topic }}
+            </div>
+        </header>
+
+        <!-- Search Form -->
+        <form action="{{ url_for('handle_search') }}" method="POST">
+            <label for="query">Search:</label>
+            <!-- Use the 'query' value passed from the Flask route if available -->
+            <input type="text" id="query" name="query"
+                value="{{ query if query else '' }}"
+                placeholder="Enter keywords" required>
+
+            <!-- Dataset Selection -->
+            <label for="dataset">Choose Dataset:</label>
+            <select id="dataset" name="dataset" required>
+                <option value="tof" {% if selected_dataset == 'tof' %}selected{% endif %}> Title + OCR text + Folder label</option>
+                <option value="to" {% if selected_dataset == 'to' %}selected{% endif %}> Title + OCR text</option>
+                <option value="tf" {% if selected_dataset == 'tf' %}selected{% endif %}> Title + Folder label</option>
+                <option value="t" {% if selected_dataset == 't' %}selected{% endif %} >Title</option>
+                <option value="o" {% if selected_dataset == 'o' %}selected{% endif %} >OCR Text</option>
+                <option value="f" {% if selected_dataset == 'f' %}selected{% endif %} >Folder label</option>
+            </select>
+
+	    <form method="post" action="/search">
+	      <button type="submit" name="action" value="search">Search</button>
+	    </form>
+
+	    <form method="post" action="/load_results">
+	      <button type="submit" name="action" value="load_results">Load Prior Judgements</button>
+	    </form>
+
+            <a href="{{ url_for('select_topic') }}">
+                <button type="button">Cancel</button>
+            </a>
+        </form>
+
+        {% if results %}
+        <!-- Results Table -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Document Name</th>
+                    <th>Title</th>
+                    <th>Folder</th>
+                    <th>Box</th>
+                    <th>Folder Label</th>
+                    <th>Relevance Judgement</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% set rank = 1 %}
+                {% for doc in results %}
+                <tr>
+                    <td>{{ doc['rank'] + 1 }}</td>
+                    <td>{{ doc['docno'] }}</td>
+                    <td>
+                        <a href="{{ url_for('static', filename=doc['path']) }}" target="_blank">{{ doc['title'] }}</a>
+                    </td>
+                    <td>{{ doc['folder'] }}</td>
+                    <td>{{ doc['box'] }}</td>
+                    <td>{{ doc['folderlabel'] }}</td>
+                    <td>
+                        <form action="{{ url_for('update_relevance') }}" method="POST">
+                            <input type="hidden" name="document_id" value="{{ doc['docid']}}">
+                            <input type="hidden" name="file_name" value="{{ doc['docno'] }}">
+
+                            <select name="relevance" onchange="this.form.submit()">
+                                <option value="0" {% if doc.relevance == 0 %}selected{% endif %}>N/A</option>
+                                <option value="1" {% if doc.relevance == 1 %}selected{% endif %}>Not Relevant</option>
+                                <option value="2" {% if doc.relevance == 2 %}selected{% endif %}>Somewhat Relevant</option>
+                                <option value="3" {% if doc.relevance == 3 %}selected{% endif %}>Relevant</option>
+                                <option value="4" {% if doc.relevance == 4 %}selected{% endif %}>Highly Relevant</option>
+				<option value="-1" {% if doc.relevance == -1 %}selected{% endif %}>System Error</option>
+                            </select>
+                        </form>
+                    </td>
+                </tr>
+                {% set rank = rank + 1 %}
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <!-- Actions: Submit Relevance and Back to Create Topic -->
+        <div class="actions">
+            <form action="{{ url_for('submit_relevance') }}" method="POST">
+                <button type="submit">Submit Relevance Judgement</button>
+            </form>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

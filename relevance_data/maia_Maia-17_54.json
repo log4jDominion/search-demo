@@ -1,0 +1,65 @@
+[
+    {
+        "query": "dairy ",
+        "file": "S07750.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy ",
+        "file": "S26354.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy ",
+        "file": "S04450.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy ",
+        "file": "S21796.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy cattle",
+        "file": "S07750.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy cattle",
+        "file": "S21796.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy cattle",
+        "file": "S04450.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy cattle",
+        "file": "S26354.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    },
+    {
+        "query": "dairy cattle",
+        "file": "S04000.pdf",
+        "relevance": 3,
+        "user_name": "maia",
+        "topic_num": "Maia-17"
+    }
+]

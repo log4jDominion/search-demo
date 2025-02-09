@@ -1,0 +1,107 @@
+[
+    {
+        "query": "pests",
+        "file": "S19158.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "pests",
+        "file": "S07225.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "pests",
+        "file": "S16999.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "pest control",
+        "file": "S19158.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "pest control",
+        "file": "S16999.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "pest control",
+        "file": "S07225.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "plant pests",
+        "file": "S19158.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "plant pests",
+        "file": "S07225.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "plant pests",
+        "file": "S16999.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "animal pests",
+        "file": "S16999.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "animal pests",
+        "file": "S19158.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "animal pests",
+        "file": "S07225.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "equine influenza",
+        "file": "S16999.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "equine influenza",
+        "file": "S07225.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    },
+    {
+        "query": "equine influenza",
+        "file": "S19158.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-7"
+    }
+]

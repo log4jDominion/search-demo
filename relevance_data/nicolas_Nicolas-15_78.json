@@ -1,0 +1,23 @@
+[
+    {
+        "query": "Wine",
+        "file": "S42167.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-15"
+    },
+    {
+        "query": "Wine",
+        "file": "S41539.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-15"
+    },
+    {
+        "query": "Wine",
+        "file": "S42096.pdf",
+        "relevance": 3,
+        "user_name": "nicolas",
+        "topic_num": "Nicolas-15"
+    }
+]

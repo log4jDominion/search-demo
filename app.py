@@ -13,8 +13,8 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
 # Path for development envoriment
-sushi_files_path = "/home/Documents/sushi-a/sushi-files"
-index_path_tof = "/home/Documents/sushi-a/terrierindex/tof/data.properties"
+# sushi_files_path = "/home/Documents/sushi-a/sushi-files"
+# index_path_tof = "/home/Documents/sushi-a/terrierindex/tof/data.properties"
 # index_path_to = "/home/Documents/sushi-a/terrierindex/to/data.properties"
 # index_path_tf = "/home/Documents/sushi-a/terrierindex/tf/data.properties"
 # index_path_of = "/home/Documents/sushi-a/terrierindex/of/data.properties"
@@ -22,14 +22,14 @@ index_path_tof = "/home/Documents/sushi-a/terrierindex/tof/data.properties"
 # index_path_o = "/home/Documents/sushi-a/terrierindex/o/data.properties"
 # index_path_f = "/home/Documents/sushi-a/terrierindex/f/data.properties"
 
-sushi_files_path = "/Users/shashank/Research/sushi/sushi-files"
-index_path_tof = "./terrierindex/tof/data.properties"
-index_path_to = "./terrierindex/to/data.properties"
-index_path_tf = "./terrierindex/tf/data.properties"
-index_path_of = "./terrierindex/of/data.properties"
-index_path_t = "./terrierindex/t/data.properties"
-index_path_o = "./terrierindex/o/data.properties"
-index_path_f = "./terrierindex/f/data.properties"
+sushi_files_path = "/home/ubuntu/sushi-files"
+index_path_tof = "/home/ubuntu/terrierindex/tof/data.properties"
+index_path_to = "/home/ubuntu/terrierindex/to/data.properties"
+index_path_tf = "/home/ubuntu/terrierindex/tf/data.properties"
+index_path_of = "/home/ubuntu/terrierindex/of/data.properties"
+index_path_t = "/home/ubuntu/terrierindex/t/data.properties"
+index_path_o = "/home/ubuntu/terrierindex/o/data.properties"
+index_path_f = "/home/ubuntu/terrierindex/f/data.properties"
 
 # Setting for log
 log_file_path = os.path.join(os.path.dirname(__file__), 'logs', 'log.txt')
@@ -673,6 +673,6 @@ def view_pdf(pdf_path):
 
 if __name__ == '__main__':
     init_db()
-    pt.java.set_java_home("/Users/shashank/Research/java/jdk-22.0.1.jdk.arm/Contents/Home/")
+    pt.java.set_java_home("/usr/lib/jvm/default-java/")
     # app.run(host="0.0.0.0", port=8889, debug=True)
     app.run(host="0.0.0.0", port=50000, debug=True)

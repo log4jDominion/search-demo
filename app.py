@@ -675,4 +675,4 @@ if __name__ == '__main__':
     init_db()
     pt.java.set_java_home("/usr/lib/jvm/default-java/")
     # app.run(host="0.0.0.0", port=8889, debug=True)
-    app.run(host="0.0.0.0", port=50000, debug=True)
+    app.run(debug=True)

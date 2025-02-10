@@ -13,23 +13,23 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
 # Path for development envoriment
-# sushi_files_path = "/home/Documents/sushi-a/sushi-files"
-# index_path_tof = "/home/Documents/sushi-a/terrierindex/tof/data.properties"
-# index_path_to = "/home/Documents/sushi-a/terrierindex/to/data.properties"
-# index_path_tf = "/home/Documents/sushi-a/terrierindex/tf/data.properties"
-# index_path_of = "/home/Documents/sushi-a/terrierindex/of/data.properties"
-# index_path_t = "/home/Documents/sushi-a/terrierindex/t/data.properties"
-# index_path_o = "/home/Documents/sushi-a/terrierindex/o/data.properties"
-# index_path_f = "/home/Documents/sushi-a/terrierindex/f/data.properties"
+sushi_files_path = "/home/ubuntu/sushi-files"
+index_path_tof = "/home/ubuntu/terrierindex/tof/data.properties"
+index_path_to = "/home/ubuntu/terrierindex/to/data.properties"
+index_path_tf = "/home/ubuntu/terrierindex/tf/data.properties"
+index_path_of = "/home/ubuntu/terrierindex/of/data.properties"
+index_path_t = "/home/ubuntu/terrierindex/t/data.properties"
+index_path_o = "/home/ubuntu/terrierindex/o/data.properties"
+index_path_f = "/home/ubuntu/terrierindex/f/data.properties"
 
-sushi_files_path = "/mnt/sushi-files"
-index_path_tof = "/mnt/terrierindex/tof/data.properties"
-index_path_to = "/mnt/terrierindex/to/data.properties"
-index_path_tf = "/mnt/terrierindex/tf/data.properties"
-index_path_of = "/mnt/terrierindex/of/data.properties"
-index_path_t = "/mnt/terrierindex/t/data.properties"
-index_path_o = "/mnt/terrierindex/o/data.properties"
-index_path_f = "/mnt/terrierindex/f/data.properties"
+# sushi_files_path = "/mnt/sushi-files"
+# index_path_tof = "/mnt/terrierindex/tof/data.properties"
+# index_path_to = "/mnt/terrierindex/to/data.properties"
+# index_path_tf = "/mnt/terrierindex/tf/data.properties"
+# index_path_of = "/mnt/terrierindex/of/data.properties"
+# index_path_t = "/mnt/terrierindex/t/data.properties"
+# index_path_o = "/mnt/terrierindex/o/data.properties"
+# index_path_f = "/mnt/terrierindex/f/data.properties"
 
 # Setting for log
 log_file_path = os.path.join(os.path.dirname(__file__), 'logs', 'log.txt')
@@ -147,7 +147,7 @@ def terrier_search(query, engine):
     return result
 
 
-# dict_pdf_path = make_dict_file_path("/home/Documents/sushi-a/sushi-files")
+    # dict_pdf_path = make_dict_file_path("/home/Documents/sushi-a/sushi-files")
 dict_pdf_path = make_dict_file_path(sushi_files_path)
 
 

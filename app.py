@@ -32,7 +32,14 @@ index_path_o = "/home/ubuntu/terrierindex/o/data.properties"
 index_path_f = "/home/ubuntu/terrierindex/f/data.properties"
 
 # Setting for log
-log_file_path = os.path.join(os.path.dirname(__file__), 'logs', 'log.txt')
+# Define log file path
+log_file_path = "/app/logs/log.txt"
+
+# Ensure log file exists
+if not os.path.exists(log_file_path):
+    with open(log_file_path, "w") as f:
+        f.write("Log file created.\n")
+
 logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 logger = logging.getLogger()
 

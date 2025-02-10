@@ -22,7 +22,7 @@ app.secret_key = 'your_secret_key'
 # index_path_o = "/home/ubuntu/terrierindex/o/data.properties"
 # index_path_f = "/home/ubuntu/terrierindex/f/data.properties"
 
-sushi_files_path = "/mnt/sushi-files"
+sushi_files_path = "/static/sushi-files"
 index_path_tof = "/mnt/terrierindex/tof/data.properties"
 index_path_to = "/mnt/terrierindex/to/data.properties"
 index_path_tf = "/mnt/terrierindex/tf/data.properties"

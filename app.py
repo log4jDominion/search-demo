@@ -675,4 +675,4 @@ if __name__ == '__main__':
     init_db()
     pt.java.set_java_home("/home/ubuntu/search-demo/jdk-22.0.2/")
     # app.run(host="0.0.0.0", port=8889, debug=True)
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=80, debug=True)
